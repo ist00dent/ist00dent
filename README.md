@@ -22,7 +22,10 @@
   <!-- Add more icons as needed -->
 </p>
 
+
+
 > **Disclaimer**: I mostly work in private repositories, so my public GitHub profile might not fully showcase my complete portfolio of projects.
+
 
 
 ## GitHub Stats
