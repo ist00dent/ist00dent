@@ -1,47 +1,136 @@
 # Hi there, I'm ist00dent 👋
 
+<h3 align="center">
+AI & Automation Engineer • Full-Stack Developer • Mobile App Builder
+</h3>
+
+<p align="center">
+Building intelligent systems, scalable applications, automation workflows, and real-world digital solutions.
+</p>
+
+<p align="center">
+  <a href="https://ckcatalyst.ca" target="_blank">
+    🌐 ckcatalyst.ca
+  </a>
+  •
+  <a href="https://www.linkedin.com/in/carl-kendrick-camus" target="_blank">
+    LinkedIn
+  </a>
+</p>
+
+---
+
 ## About Me
-- 🌱 I’m currently learning **AI and machine learning**, **Android application development**, **Automation and Scraping**, and advancing my skills in **cybersecurity**. 
-- 👯 I’m looking to collaborate on **Android application**, **AI/ML projects**, and **automation tools**. 
-- 🤔 I’m looking for help with exploring advanced topics in **machine learning**. 
-- 💬 Ask me about **Android development**, **automation scripting**, and **Scraping**. 
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/carl-kendrick-camus)**
-- ⚡ Fun fact: I'm a **fast learner** with a passion for blending **creativity and technology** in my projects.
 
-## Languages and Tools
+- 🚀 Software engineer focused on:
+  - AI-powered applications
+  - Automation systems
+  - SaaS platforms
+  - Backend architecture
+  - Mobile development
+- 🌱 Currently advancing my expertise in:
+  - Artificial Intelligence & Machine Learning
+  - Automation Engineering
+  - Scalable System Design
+  - Cybersecurity
+  - Data Engineering
+- ⚙️ Experienced with:
+  - Python Automation
+  - n8n Workflows
+  - Web Scraping Systems
+  - API Development
+  - Android & Cross-Platform Apps
+  - AI Integrations
+  - Full-Stack Development
+- 🧠 I enjoy solving business and operational problems through technology and automation
+- 🤝 Open to collaborations involving:
+  - AI/ML projects
+  - Automation systems
+  - SaaS products
+  - Mobile applications
+  - Startup ideas
+- ⚡ Fun fact:
+  I like combining business strategy, creativity, AI, and engineering into production-ready systems.
+
+---
+
+## Tech Stack
+
+### Languages
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45"/>
+</p>
+
+### Frontend & Mobile
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="45" height="45"/>
+</p>
+
+### Backend, AI & Automation
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="45" height="45"/>
+  <img src="https://n8n.io/favicon.ico" width="45" height="45"/>
+</p>
+
+### Database & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/>
+</p>
+
+---
+
+## Current Focus
+
+```txt
+AI Systems • Automation Engineering • SaaS Platforms
+Backend Architecture • Mobile Applications • Data Engineering
+```
+
+---
+
+## GitHub Profile Views
 
 <p align="left">
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.linux.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://github.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/> </a>
-  <!-- Add more icons as needed -->
+  <img src="https://komarev.com/ghpvc/?username=ist00dent&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
+---
 
-
-> **Disclaimer**: I mostly work in private repositories, so my public GitHub profile might not fully showcase my complete portfolio of projects.
-
-
-
-## GitHub Stats
+## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ist00dent&show_icons=true&theme=radical" alt="ist00dent's GitHub stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ist00dent&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
-## Top Languages
+---
+
+## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ist00dent&layout=compact&theme=radical" alt="ist00dent's top languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ist00dent&theme=tokyo-night&hide_border=true"/>
 </p>
 
-## Connect with Me
+---
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/carl-kendrick-camus" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
-</p>
+## Connect With Me
+
+- 📫 LinkedIn: www.linkedin.com/in/carl-kendrick-camus
+- 🌐 Website: https://ckcatalyst.ca
+
+---
+
+## Note
+
+> Most of my large-scale and production work is developed in private repositories, internal systems, or client environments, so public repositories represent only part of my overall experience and projects.
